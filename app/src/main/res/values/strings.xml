@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClientApp</string>
+    <string name="number_hint">Enter Number</string>
+    <string name="add_text">Add</string>
+    <string name="sub_text">Subtract</string>
+    <string name="result_text">Result shown here!!</string>
+    <string name="error_text">Error occured!!</string>
+    <string name="titile">CalcuLator App</string>
+</resources>
